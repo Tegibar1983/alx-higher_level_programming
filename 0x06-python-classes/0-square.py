@@ -2,4 +2,5 @@
 #Done by Mr Tegibar
 
 class Square:
+   """ place holder"""
     pass
