@@ -1,31 +1,9 @@
 #!/usr/bin/python3
-
-# 0-square.py done by Tegibar.B
-
-"""Defines a square """
-
-
-
-
+#done by Tegibar B.
+""" Defines a square"""
 
 class Square:
-
-        """Represents a square"""
-
-
-
-            def __init__(self, size):
-
-                        """Initializing this square class
-
-                                Args: size - represnets the size of the square defined
-
-                                        """
-
-
-
-                                                self.__size = size
-
-
-
-
+    """ Represents a Squre"""
+    def __init__(self, size):
+        """ Intializing a Square where Args: siz telss suare ssize"""
+        self.__size = size
