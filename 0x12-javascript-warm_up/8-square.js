@@ -9,7 +9,7 @@ let y = 0;
 let myVar = '';
 
 while (y < x){
-	myVar = myVarr + 'X';
+	myVar = myVarr + 'x';
 	y++;
 }
 console.log(myVar);
