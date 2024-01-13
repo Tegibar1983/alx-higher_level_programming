@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This scrips will list all state
-found in 'hbtn_0e_0_usa'
+found in `hbtn_0e_0_usa`
 """
 import MySQLdb
 from sys import argv
